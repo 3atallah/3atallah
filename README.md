@@ -24,7 +24,7 @@
 - 🤝 I’m available for freelancing.
 - :nerd_face: Always `learning new things`.
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
-- :thinking: I’m currently open for a new `job opportunity`.
+- 🔭  I’m currently open for a new `job opportunity`.
 - 💬 Ask me about any technology.
 - ⚡  Fun fact: My first line of code was not "Hello World!".
 - ☕  I belive, a perfect cup of coffee can be the ultimate solution for any stress.
