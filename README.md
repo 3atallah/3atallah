@@ -17,7 +17,7 @@
 
 <br><br>
 
-- :school: I am a `Graduated` from the [College of Information Technology and communication](https://www.ttu.edu.jo/college-of-information-technology-and-communication/) at [Tafilah Technical University](https://www.ttu.edu.jo/).
+<!--- :school: I am a `Graduated` from the [College of Information Technology and communication](https://www.ttu.edu.jo/college-of-information-technology-and-communication/) at [Tafilah Technical University](https://www.ttu.edu.jo/).-->
 - 💼   Android developer and Full-Stack developer.
 - 🌱 I’m currently Learning Mobile App(React-Native)
 - :technologist: I love using Software as a solution for every `Problem`.
